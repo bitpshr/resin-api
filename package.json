@@ -1,0 +1,27 @@
+{
+  "name": "ghost-api",
+  "version": "0.0.1",
+  "scripts": {
+    "format": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "22.13.5",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.0.2",
+    "prettier": "3.5.2"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "@neondatabase/serverless": "^0.10.4",
+    "i": "^0.3.7",
+    "jsdom": "^26.0.0",
+    "openai": "^4.86.2",
+    "rss-parser": "^3.13.0",
+    "typescript": "^5.8.2",
+    "zod": "^3.24.2"
+  }
+}
