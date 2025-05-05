@@ -2,7 +2,7 @@
 
 **Resin** is an automated news system that removes journalists and opinions and surfaces raw data directly to readers.
 
-[resin.news](resin.news)
+[https://resin.news](https://resin.today/)
 
 <img src="assets/preview.png">
 
